@@ -1,0 +1,12 @@
+  .footer {
+    background-color:rgb(44, 40, 37);
+    color: rgb(5, 5, 61);
+    position: relative;
+    justify-content: space-between;
+    padding: 15px 30px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    bottom:1;
+    display:fluid;
+}

@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Somsung Mobile",
+      "price": "600",
+      "brand": "electronics",
+      "description": "Iphone 11 64 gb ram etc.....",
+      "productDate": "2023-11-26",
+      "id": 3
+    },
+    {
+      "name": "Mobile",
+      "price": "500",
+      "brand": "electronics",
+      "description": "Iphone 15 Promax",
+      "productDate": "2023-11-26",
+      "id": 5
+    },
+    {
+      "name": "Mobile",
+      "price": "5050",
+      "brand": "electronics",
+      "description": "Iphone 15 Promax",
+      "productDate": "2023-11-26",
+      "id": 6
+    },
+    {
+      "name": "Mobile",
+      "price": "5004",
+      "brand": "electronics",
+      "description": "Iphone 15 Promax",
+      "productDate": "2023-11-26",
+      "id": 7
+    }
+  ]
+}

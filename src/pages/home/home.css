@@ -1,0 +1,67 @@
+
+.home {
+    min-height:87vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(30, 7, 110);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+}
+
+.hm{
+  display:flex;
+  height:100%;
+  width:100%;
+  justify-content: center;
+  align-items: center;
+  border-left:solid 0.2px;
+  border-radius: 0%;
+  border-color: rgb(161, 11, 11);
+  justify-content: center;
+  align-items: center;
+  padding-top: 3;
+
+}
+
+.form{
+  text-align: center;
+  justify-content: justify;
+}
+
+p{
+  font-size: 20x;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  justify-content:justify;
+  color:rgb(5, 6, 92)
+
+}
+container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0%;
+  border:none;
+  border-top:none;
+  background-color:white;
+  width:1300px;
+  margin:0px;
+  height:100%;
+  padding:6px;
+  box-shadow:  1px 2px 5px rgb(118, 118, 123);
+}
+
+.py-2{
+  display:flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+h3{
+  color:purple;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+

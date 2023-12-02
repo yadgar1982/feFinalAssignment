@@ -1,0 +1,15 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0%;
+    border:dotted 1px rgb(21, 35, 226);
+    background-color:white;
+    width:80%;
+    margin:0;
+    padding:4px;
+    border-radius: 6px;
+    padding-left: 16px;
+    padding-right:16px;
+
+  }

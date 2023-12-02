@@ -1,0 +1,21 @@
+.layout {
+    height: 85vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    font-size: 20;
+    font-weight: 500;
+    color: darkblue;
+ 
+}
+
+.nav{
+    font-size: 25;
+    font-weight: 500;
+    color:white;
+}
+
+
+    

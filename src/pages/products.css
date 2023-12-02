@@ -1,0 +1,48 @@
+.pro{
+  height:87vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:transparent;
+  color: rgb(235, 235, 240);
+  margin:0;
+  padding:0;
+  background-color: bisque;
+
+}
+container{
+  display:fluid;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0%;
+  border:solid 3px none;
+  background-color:white;
+  width:1000px;
+  margin:0;
+  height:100%;
+  box-shadow:  1px 2px 5px rgb(118, 118, 123);
+}
+
+
+.tbl{ 
+  display:flex;
+  width:auto;
+  align-content: center;
+  justify-content: center;
+} 
+
+input, select, textarea{
+
+  outline: none;
+  box-shadow: 0px 0px 5px  rgb(0, 26, 255);
+  border:1px solid rgb(0, 26, 255);
+  
+}
+hr{
+  display: block;
+  
+  border-top: 2px solid #040725;
+  margin: 1em 0;
+  padding: 0;
+}
